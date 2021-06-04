@@ -1,0 +1,5 @@
+python frank_test_colorization.py -fpath "/home/lexi/Desktop/Frank/reverse-colorization/RealData/level2" -outpath "test/real"
+
+
+
+
