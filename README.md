@@ -1,7 +1,7 @@
 # Cycle-CNN for Coloration towards Real Monochrome-Color Camera Systems
  Xuan Dong, Weixin Li, Xiaojie Wang, Yunhong Wang. In AAAI, 2020<br><br>
 This is the implementation code of AAAI2020's paper "Cycle-CNN for Coloration towards Real Monochrome-Color Camera Systems".The example coloring result of gray image is shown in the figure below.<br>
-![图片](https://user-images.githubusercontent.com/84729271/121697068-46e7ce00-caff-11eb-9219-4a3d49473cb6.png)<br><br>
+![图片](https://user-images.githubusercontent.com/84729271/123550440-085d3f00-d7a0-11eb-8f4b-72dd6569c801.png)<br><br>
 Download the original paper.<br>
 [Cycle-CNN for Coloration towards Real Monochrome-Color Camera Systems.pdf](https://github.com/bupt-wx/AAAI2020-Image-Colorization_of_dx/files/6638935/Cycle-CNN.for.Coloration.towards.Real.Monochrome-Color.Camera.Systems.pdf)<br><br>
 Clone the repository.<br>
