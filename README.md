@@ -1,11 +1,11 @@
-# Cycle-CNN for Coloration towards Real Monochrome-Color Camera Systems
+# Cycle-CNN for Colorization towards Real Monochrome-Color Camera Systems
  Xuan Dong, Weixin Li, Xiaojie Wang, Yunhong Wang. In AAAI, 2020<br><br>
-This is the implementation code of AAAI2020's paper "Cycle-CNN for Coloration towards Real Monochrome-Color Camera Systems".The example coloring result of gray image is shown in the figure below.<br>
+This is the implementation code of AAAI2020's paper "Cycle-CNN for Colorization towards Real Monochrome-Color Camera Systems".The example coloring result of gray image is shown in the figure below.<br>
 ![图片](https://user-images.githubusercontent.com/84729271/123550440-085d3f00-d7a0-11eb-8f4b-72dd6569c801.png)<br><br>
 Download the original paper.<br>
-[Cycle-CNN for Coloration towards Real Monochrome-Color Camera Systems.pdf](https://github.com/bupt-wx/AAAI2020-Image-Colorization_of_dx/files/6638935/Cycle-CNN.for.Coloration.towards.Real.Monochrome-Color.Camera.Systems.pdf)<br><br>
+[Cycle-CNN for Colorization towards Real Monochrome-Color Camera Systems.pdf](https://github.com/bupt-wx/Colorization-Towards-Real-Monochrome-Color-Camera-Systems/files/6731688/Cycle-CNN.for.Colorization.towards.Real.Monochrome-Color.Camera.Systems.pdf)<br><br>
 Clone the repository.<br>
-`git clone https://github.com/bupt-wx/AAAI2020-Image-Colorization_of_dx.git`<br>
+`git clone https://github.com/bupt-wx/Colorization-Towards-Real-Monochrome-Color-Camera-Systems.git`<br>
 Required environment version information.<br>
 `Tensorflow 1.8.0; Keras 2.1.6; Python 3.6`<br><br>
 You can test this project by using the following commands and using the images in the Sample_input folder.It should be noted that the algorithm uses the Ycbcr color space, and the pre-processing and post-processing of the algorithm requires converting the color space of the image.<br>
