@@ -1,5 +1,12 @@
 # Colorization Towards Real Monochrome-Color Camera Systems
-Colorization in monochrome-color camera systems aims to colorize the gray image from the monochrome camera using the color image from the color camera as reference. Since monochrome cameras have better imaging quality than color cameras, the colorization can help obtain higher quality color images. Related learning based methods usually simulate the monochrome-color camera systems to generate the synthesized data for training, due to the lack of ground-truth color information of the gray image in the real data. However,the methods that are trained relying on the synthesized data may get poor results when colorizing real data, because the synthesized data may deviate from the real data. We present a self-supervised CNN model, named Cycle CNN, which can directly use the real data from monochrome-color camera systems for training.  <br><br>
+Colorization in monochrome-color camera systems aims to colorize the gray image from the monochrome camera 
+using the color image from the color camera as reference. Since monochrome cameras have better imaging quality 
+than color cameras, the colorization can help obtain higher quality color images. Related learning based methods 
+usually simulate the monochrome-color camera systems to generate the synthesized data for training, due to the 
+lack of ground-truth color information of the gray image in the real data. However,the methods that are trained 
+relying on the synthesized data may get poor results when colorizing real data, because the synthesized data may 
+deviate from the real data. We present a self-supervised CNN model, named Cycle CNN, which can directly use the 
+real data from monochrome-color camera systems for training.<br><br>
 The example results are shown in the figure below.<br>
 ![图片](https://user-images.githubusercontent.com/84729271/123550440-085d3f00-d7a0-11eb-8f4b-72dd6569c801.png)<br><br>
 Papers:<br>
